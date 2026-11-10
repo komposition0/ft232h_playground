@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FT232H.Automation/FT232H.Automation.csproj" />
+    <Project Path="src/FT232H.ControlStudio/FT232H.ControlStudio.csproj" />
+    <Project Path="src/FT232H.Core/FT232H.Core.csproj" />
+    <Project Path="src/FT232H.Hardware/FT232H.Hardware.csproj" />
+    <Project Path="src/FT232H.Simulation/FT232H.Simulation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FT232H.Tests/FT232H.Tests.csproj" />
+  </Folder>
+</Solution>
